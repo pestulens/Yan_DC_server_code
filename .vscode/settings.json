@@ -1,0 +1,9 @@
+{
+    "python.defaultInterpreterPath": "D:\\git\\Yan_DC_server_code\\venv\\Scripts\\python.exe",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "editor.formatOnSave": true,
+    "python.formatting.provider": "black",
+    "python.analysis.typeCheckingMode": "basic"
+  }
+  
